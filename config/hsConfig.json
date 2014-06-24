@@ -1,0 +1,12 @@
+{
+  "mc_port":9887,
+#  "mc_sock_file":"/tmp/hsproxy.sock",
+  "hs_port":9998,
+  "db_name":"tuenti",
+  "hs_pool_size":6,
+  "num_parsers":2,
+  "max_connections":256,
+  "mc_quiet_mode":0,
+  "log_level":20,
+#  "log_file":"/tmp/hsproxy.log"
+}

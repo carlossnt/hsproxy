@@ -1,0 +1,10 @@
+{
+  "user_basic":{
+    "4":{
+      "key_fields":["user_id"],
+      "value_fields":["name","surname","avatar_photo_id","avatar_uploader_id","avatar_center_x","avatar_center_y","birthday","primary_phone","province","sex","status_on","location_id","deactivated","country_id","hometown_location_id","hometown_country_id","services"],
+      "num_part":100,
+      "index":"PRIMARY"
+    }
+  }
+}

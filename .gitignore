@@ -1,0 +1,12 @@
+*.o
+tags
+server/hsproxy
+client/client_ascii
+client/client_binary
+client/latency_test
+client/test_stats
+debian/files
+*debhelper.log
+*.substvars
+debian/hsproxy-client/
+debian/hsproxy-server/
